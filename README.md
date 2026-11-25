@@ -34,11 +34,7 @@ I'm a Flutter Developer with hands-on internship experience building responsive 
 | E-Commerce App | Online shopping application |
 | Flutter Recipe App | Recipe browsing application |
 
-### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathimanadin824-glitch&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathimanadin824-glitch&layout=compact&theme=tokyonight)
 
 ### 📫 Connect With Me
 
