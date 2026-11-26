@@ -11,7 +11,7 @@ I'm a Flutter Developer with hands-on experience building responsive cross-platf
 - 💡 Interested in real-world application development
 - 🎯 Aspiring Professional Flutter Developer
 
-### 🛠️ Technical Skills
+
 ## 🛠️ My Tech Stack
 
 <p align="left">
