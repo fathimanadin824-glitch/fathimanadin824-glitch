@@ -32,10 +32,6 @@ I'm a Flutter Developer with hands-on experience building responsive cross-platf
 | Flutter Resume App | Personal resume application using Firebase |
 | Flutter Recipe App | Recipe browsing application |
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathimanadin824-glitch&show_icons=true&theme=tokyonight)
-
 ### 📫 Connect With Me
 
 - GitHub: https://github.com/fathimanadin824-glitch
