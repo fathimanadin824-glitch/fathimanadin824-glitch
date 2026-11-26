@@ -12,14 +12,14 @@ I'm a Flutter Developer with hands-on experience building responsive cross-platf
 - 🎯 Aspiring Professional Flutter Developer
 
 ### 🛠️ Technical Skills
+## 🛠️ My Tech Stack
 
-- **Mobile:** Flutter, Dart, Provider
-- **Backend:** Firebase, Authentication, Firestore
-- **API:** REST API Integration
-- **Programming:** Python, SQL, JavaScript
-- **Web:** HTML, CSS
-- **Tools:** Git, GitHub, VS Code, Android Studio
-- **Design:** Figma, UI/UX, Responsive Design
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,html,css,js,git,github,figma&perline=5" />
+  </a>
+</p>
+
 
 ### 🚀 My Projects
 
